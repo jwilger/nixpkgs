@@ -4,7 +4,7 @@
 
 let
   pname = "elixir-ls";
-  version = "0.21.3";
+  version = "0.22.0";
   src = fetchFromGitHub {
     owner = "elixir-lsp";
     repo = "elixir-ls";
